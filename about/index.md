@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 current: about
-class: 'home-template'
-navigation: True
+title: Perfil
+navigation: true
+logo: 'assets/images/ghost.png'
+class: page-template
+subclass: 'post page'
 ---
 
 >Stalyn Asitmbay
