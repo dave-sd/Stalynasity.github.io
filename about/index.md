@@ -10,26 +10,6 @@ subclass: 'post page'
 
 
 
-<main id="site-main" class="site-main outer" role="main">
-  
-   <div class="inner">
-
-        <div class="post-feed">
-            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-            {%  include post-card.html %}
-        </div>
-
-    </div>
-</main>
-
-
-
-
-
-
-
-
-
 >Stalyn Asitmbay
 Hola, mi nombre completo es Stalyn David Asitimbay Shigla, tengo 19 años, vivo en la ciudad de Guayaquil, Ecuadror y sigo mis estudios en la Univerdad De Guayaquil en la Carrera de Software, mido 165 cm de estatura, y me gusta ayudar a las personas.
 
